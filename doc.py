@@ -6,3 +6,4 @@ print(f"student's name:{name}")
 print(f"student's age:{age}")
 print(f"student's email:{email}")
 print("the mobile number",mobile)
+
