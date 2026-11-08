@@ -1,5 +1,8 @@
-name=input("enter the name")
+name=input("enter the name:")
+age=int(input("enter the age:"))
+email=input("enter the email:")
+mobile =int(input("enter the mobile number"))
 print(f"student's name:{name}")
-
-
-      
+print(f"student's age:{age}")
+print(f"student's email:{email}")
+print(f"student's mobile number:{mobile}")
